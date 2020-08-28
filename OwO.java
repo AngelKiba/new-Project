@@ -1,4 +1,3 @@
-import java.util.Scanner;
 import java.util.ArrayList;
 
 public class OwO{
@@ -11,6 +10,10 @@ public class OwO{
   
   public String getName(){
     return name;
+  }
+  
+  public ArrayList<OwO> sortOwO(ArrayList<OwO> unsortedOwO){
+    
   }
  
 }
